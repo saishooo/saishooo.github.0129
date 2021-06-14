@@ -68,7 +68,7 @@
 <body>
   <div id="contact" class="big-bg">
   <header class="page-header wrapper">
-    <h1><a href="plofile-index.html"><img class="logo" src="htimages/齋藤将平.pdf"></a></h1>
+    <h1><a href="index.html"><img class="logo" src="htimages/齋藤将平.pdf"></a></h1>
   <nav>
     <ul class="main-nav">
       <li><a href="plofile.html">Plofile</a></li>
